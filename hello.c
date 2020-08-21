@@ -1,6 +1,6 @@
 /**
  * Author: Will Cook
- *         wcook2@huskers.unl.edu
+ * wcook2@huskers.unl.edu
  * Date: 2020/08/19
  *
  * A simple hello world program in C
